@@ -95,7 +95,7 @@ input::-webkit-inner-spin-button {
 /* ----------------------------------------- Key Panel CSS--------------------------------------------------------- */
 
 #keypanel{
-    height: calc(54vh - 6px);
+    height: calc(56vh - 6px);
     display: grid;
     grid-template-columns: repeat(4,1fr);
     grid-template-rows: repeat(5,1fr);
